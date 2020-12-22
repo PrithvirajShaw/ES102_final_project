@@ -1,5 +1,8 @@
 # ES102_final_project
 ES102_final_project  Gym Assistant using PyGame Time webbrowser File I/O
+
+--- if using this program the first time pls : create an empty log.txt in your directory---
+
 the file requires you to have all the modules from requirements.txt
 make sure you are connected to the internet with an internet browser intalled
 make sure you have a file named gym.mp3 as your song that you want to play
